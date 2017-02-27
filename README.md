@@ -7,6 +7,8 @@
  2. Convert 'xls' files to 'xlsx' via MS Excel.
  3. Download the python script "MakeMacDictXHTML.py" and put it in same directory.
  4. Use python3  run the python script.
+ 5. Run "make" in Terminal.app .
+ 
 ## Reference
  1. [Official Guide](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/DictionaryServicesProgGuide/Introduction/Introduction.html) from apple.
  2. [NEAR website](http://terms.naer.edu.tw/)
